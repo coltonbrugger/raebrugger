@@ -10,10 +10,37 @@ export default function Home() {
           Lowell Julian Brugger &mdash; December 8, 1936 - December 25, 2021
         </title>
         <meta
-          name="description"
-          content="In memory of Lowell Julian Brugger."
+          name="title"
+          content="Lowell Julian Brugger &mdash; December 8, 1936 - December 25, 2021"
         />
-        <link rel="icon" href="/favicon.ico" />
+        <meta
+          name="description"
+          content="On December 25, 2021, Christmas Day afternoon, Lowell Julian Brugger, 85, died at his home in La Grange, Texas. Known to many as “Buddy” Brugger, and lovingly called “Papa” by his eleven grandchildren and nine great-grandchildren."
+        />
+
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="https://www.lowellbrugger.com/" />
+        <meta
+          property="og:title"
+          content="Lowell Julian Brugger &mdash; December 8, 1936 - December 25, 2021"
+        />
+        <meta
+          property="og:description"
+          content="On December 25, 2021, Christmas Day afternoon, Lowell Julian Brugger, 85, died at his home in La Grange, Texas. Known to many as “Buddy” Brugger, and lovingly called “Papa” by his eleven grandchildren and nine great-grandchildren."
+        />
+        <meta property="og:image" content="/remember1.jpg" />
+
+        <meta property="twitter:card" content="summary_large_image" />
+        <meta property="twitter:url" content="https://metatags.io/" />
+        <meta
+          property="twitter:title"
+          content="Lowell Julian Brugger &mdash; December 8, 1936 - December 25, 2021"
+        />
+        <meta
+          property="twitter:description"
+          content="On December 25, 2021, Christmas Day afternoon, Lowell Julian Brugger, 85, died at his home in La Grange, Texas. Known to many as “Buddy” Brugger, and lovingly called “Papa” by his eleven grandchildren and nine great-grandchildren."
+        />
+        <meta property="twitter:image" content="/remember1.jpg" />
       </Head>
 
       <main className={styles.main}>
