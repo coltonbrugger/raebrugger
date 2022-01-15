@@ -8,13 +8,6 @@
   padding-top: 2rem;
 }
 
-.footer a {
-  color: blue;
-}
-.footer a:hover {
-  text-decoration: underline;
-}
-
 .title {
   margin: 0;
   line-height: 1.15;
