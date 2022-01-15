@@ -2,6 +2,14 @@
   margin: 4rem;
 }
 
+.banner {
+  max-width: 100%;
+}
+
+.banner img {
+  max-width: 100%;
+}
+
 .footer {
   margin: 5rem 0;
   border-top: 1px solid #ccc;
@@ -22,7 +30,7 @@
 }
 
 .photo img {
-  max-width: 400px;
+  max-width: 150px;
 }
 
 .description {
@@ -40,14 +48,14 @@
   .title {
     font-size: 2.5rem;
   }
-  .photo {
+  /* .photo {
     float: none;
     margin: 0 0 2rem 0;
   }
   .photo img {
     width: 100%;
     max-width: 100%;
-  }
+  } */
 }
 .code {
   background: #fafafa;
