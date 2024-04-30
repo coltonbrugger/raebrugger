@@ -61,12 +61,12 @@ export default function Home() {
             December 8, 1936 - December 25, 2021
           </p>
           <div>
-          <p>Rae Elizabeth (Coenen) Brugger, cherished by many as &lsquo;Nana&rsquo; and &lsquo;Aunt Rae&rsquo;, passed away on March 21, 2024, in La Grange, Texas. Born on May 5, 1944, in Missouri, Rae&lsquo;s life was a testament to enduring and unconditional love.</p>
+          <p>Rae Elizabeth (Coenen) Brugger, cherished by many as &lsquo;Nana&rsquo; and &lsquo;Aunt Rae&rsquo;, passed away on March 21, 2024, in La Grange, Texas. Born on May 5, 1944, in Missouri, Rae&rsquo;s life was a testament to enduring and unconditional love.</p>
           <p>The oldest of five siblings, Rae was born to Henry and Elizabeth Coenen in Missouri and raised in Louisiana. Rae now rejoins the love of her life, <a href="https://www.lowellbrugger.com/" title="Obituary for Lowell Julian Brugger" target="_blank" rel="noreferrer">Lowell Julian (&ldquo;Buddy&rdquo;) Brugger</a>, in heaven. They married in Mexico, honeymooned on a journey to Alaska, and enjoyed much travel across the States together, especially those trips to and with their grandchildren. Rae also loved hunting with Lowell on their leases near Langtry and Menard, and fishing with him off piers at the coast or from the marina at Lake Somerville. Rae primarily raised her family and helped Lowell in managing the books for his construction company, but she also worked as an office assistant for numerous doctors in La Grange over the years.</p>
           <p>Despite her initial hesitance with technology, Rae embraced the digital world with open arms, becoming proficient with her computer, iPhone, and social media. Her later years were enriched by the ability to connect with distant relatives online and explore the branches of her family tree. Her love for her family was further expressed through her use of the Find Friends app, which she used to lovingly keep track of the travel and work of her grandchildren and more.</p>
           <p>Rae was a spirited guide for her family, and she is lovingly remembered as a woman of immense warmth and vitality. Her counsel and supportive conversations will be profoundly missed by all who had the privilege of knowing her.</p>
           <p>Rae was preceded in death by her beloved husband, <a href="https://www.lowellbrugger.com/" title="Obituary for Lowell Julian Brugger" target="_blank" rel="noreferrer">Lowell J. Brugger</a>; her brothers, Michael T. Coenen and Douglas Coenen; and her granddaughter, Hollie Schneider. Her legacy of love and family is carried on by her siblings, Virginia Carpenter and Deborah Brugger (and husband Garry).</p>
-          <p>Rae&lsquo;s memory will be cherished by...</p>
+          <p>Rae&rsquo;s memory will be cherished by...</p>
           <ul>
             <li>Her children, Sheri (Glenn) Schneider, Staci Brugger, Victoria Staal, and Mark Brugger.</li>
             <li>Her grandchildren, Brandon Schneider, Colton Brugger, Lathan Staal (and wife Caitlyn), Samantha Wallace (and fiance Klay Allen), Dalton Staal (and fiance Talia Pleason), Savannah Gotsch (and husband David), Shayleigh Staal, Sabrina Shelby (and husband Andrew), Sidney Brugger, Hunter Brugger, and Coy Magness.</li>
@@ -74,9 +74,9 @@ export default function Home() {
             <li>Her nieces and nephews, including Carter Carpenter Jr (and wife Krista), Gayle Carpenter, Shannon Grabarkewitz, Heather Zbranek (and husband Steven), and Michael T. Brugger, along with numerous great-nieces and nephews.</li>
           </ul>
             <p>
-              A celebration of Rae&lsquo;s life will take place at the Fayette
+              A <a href="https://www.facebook.com/events/1342932026402104/" title="Celebration of life for Rae Elizabeth Coenen Brugger">celebration of Rae&rsquo;s life</a> will take place at the Fayette
               County Fair Event Center on Saturday, May 11th from 12pm to
-              3pm. Rae&lsquo;s family and friends are invited to attend this
+              3pm. Rae&rsquo;s family and friends are invited to attend this
               celebration. For more information about this event, please contact
               Colton Brugger at 979-966-7995 or colton@coltonbrugger.com.
               Fayette County Fair Event Center. 400 W Fair Grounds Rd, La
