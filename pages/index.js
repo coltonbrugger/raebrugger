@@ -58,7 +58,7 @@ export default function Home() {
             Rae Elizabeth Coenen Brugger
           </h1>
           <p className={styles.description}>
-            December 8, 1936 - December 25, 2021
+            May 5, 1944 - March 21, 2024
           </p>
           <div>
           <p>Rae Elizabeth (Coenen) Brugger, cherished by many as &lsquo;Nana&rsquo; and &lsquo;Aunt Rae&rsquo;, passed away on March 21, 2024, in La Grange, Texas. Born on May 5, 1944, in Missouri, Rae&rsquo;s life was a testament to enduring and unconditional love.</p>
